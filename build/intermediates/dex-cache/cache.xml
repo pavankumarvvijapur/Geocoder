@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/pvijapur/Downloads/myfirstandroidbaby/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/pvijapur/Downloads/myfirstandroidbaby/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1-4e26e4ce4482c220eb6ea96b1f32cf0f9e8f7156.jar" />
+    </item>
+    <item
+        jar="/Users/pvijapur/Downloads/myfirstandroidbaby/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/pvijapur/Downloads/myfirstandroidbaby/app/build/intermediates/pre-dexed/debug/classes-809ae334727fc3e1737317768011f7c88eb27cfc.jar" />
+    </item>
+    <item
+        jar="/Users/pvijapur/Downloads/myfirstandroidbaby/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/pvijapur/Downloads/myfirstandroidbaby/app/build/intermediates/pre-dexed/debug/classes-d9c3e80b94f32787ff46a249f97bda05c0a1129c.jar" />
+    </item>
+    <item
+        jar="/Users/pvijapur/Downloads/myfirstandroidbaby/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/pvijapur/Downloads/myfirstandroidbaby/app/build/intermediates/pre-dexed/debug/classes-1f79d09b6ec2b1d8939d7774582d8f0a321f3c2d.jar" />
+    </item>
+    <item
+        jar="/Users/pvijapur/Downloads/myfirstandroidbaby/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/pvijapur/Downloads/myfirstandroidbaby/app/build/intermediates/pre-dexed/debug/classes-22481fd06c73488a4ac13e3d980ed5db3220579f.jar" />
+    </item>
+    <item
+        jar="/Users/pvijapur/Downloads/myfirstandroidbaby/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/pvijapur/Downloads/myfirstandroidbaby/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1-b7e19190415dac064411ca4796b3c5897f2845a6.jar" />
+    </item>
+    <item
+        jar="/Users/pvijapur/Downloads/myfirstandroidbaby/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/pvijapur/Downloads/myfirstandroidbaby/app/build/intermediates/pre-dexed/debug/classes-5291c5ebebccc25cabfea9a3bd7b120a8a603e47.jar" />
+    </item>
+    <item
+        jar="/Users/pvijapur/Downloads/myfirstandroidbaby/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/pvijapur/Downloads/myfirstandroidbaby/app/build/intermediates/pre-dexed/debug/classes-133f72a5887ff4231aa80d0dbb19a931ed75b50a.jar" />
+    </item>
+    <item
+        jar="/Users/pvijapur/Downloads/myfirstandroidbaby/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/pvijapur/Downloads/myfirstandroidbaby/app/build/intermediates/pre-dexed/debug/classes-92f714a1ed7ba5e4ca189ca5b11ac736defb141c.jar" />
+    </item>
+    <item
+        jar="/Users/pvijapur/Downloads/myfirstandroidbaby/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/pvijapur/Downloads/myfirstandroidbaby/app/build/intermediates/pre-dexed/debug/classes-7a5803be08e508fc85fb265a3cc71131276a4b29.jar" />
+    </item>
+    <item
+        jar="/Users/pvijapur/Downloads/myfirstandroidbaby/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/pvijapur/Downloads/myfirstandroidbaby/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1-3e1d22410b7c19814a274ac73bbe6ba4deecdca5.jar" />
+    </item>
+    <item
+        jar="/Users/pvijapur/Downloads/myfirstandroidbaby/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/pvijapur/Downloads/myfirstandroidbaby/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1-c709a2df236437f3da28fa76d2f280d6b51b1a95.jar" />
+    </item>
+    <item
+        jar="/Users/pvijapur/Downloads/myfirstandroidbaby/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/pvijapur/Downloads/myfirstandroidbaby/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1-9cc77f354c01fea7cca450048b6dc15042f15f46.jar" />
+    </item>
+    <item
+        jar="/Users/pvijapur/Downloads/myfirstandroidbaby/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/pvijapur/Downloads/myfirstandroidbaby/app/build/intermediates/pre-dexed/debug/classes-118c1a66021bd237695caeaa73dddb14535e0d10.jar" />
+    </item>
+    <item
+        jar="/Users/pvijapur/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/pvijapur/Downloads/myfirstandroidbaby/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1-540e15e9367ef99c9fd0a2744d55230f2ba07a53.jar" />
+    </item>
+    <item
+        jar="/Users/pvijapur/Downloads/myfirstandroidbaby/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/pvijapur/Downloads/myfirstandroidbaby/app/build/intermediates/pre-dexed/debug/classes-f413481e70437dc49b48baa9c1ed3be119c2fd02.jar" />
+    </item>
+    <item
+        jar="/Users/pvijapur/Downloads/myfirstandroidbaby/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/pvijapur/Downloads/myfirstandroidbaby/app/build/intermediates/pre-dexed/debug/classes-fd766699771c136b531e7ce17894ec16480c173b.jar" />
+    </item>
+
+</items>
